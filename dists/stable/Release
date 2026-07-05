@@ -1,15 +1,15 @@
 Architectures: amd64
 Codename: stable
-Components: core-kernel core-userspace core-userspace-env core-userspace-backup-gui core-userspace-plasma-gui core-userspace-base
-Date: Sat, 04 Jul 2026 22:47:20 +0000
+Components: core-kernel core-userspace core-userspace-env core-userspace-backup-gui core-userspace-plasma-gui core-userspace-base alt-kernel
+Date: Sun, 05 Jul 2026 23:39:38 +0000
 Label: Ishimura Service Pack Repository for Tridentu 2
 Origin: Ishimura
 Suite: stable
 MD5Sum:
- 2a13a62457c360d90277f16369c8f89d              292 Release
+ b83ed2a46225ec8bc6b4a0ab4ef3dbd3              303 Release
 SHA1:
- 02b415dfc0111125de44932ea9eb38a26ab2993d              292 Release
+ 7b820f6dcd539e98dadcb9c83b3585eceb66a4a2              303 Release
 SHA256:
- d5bb2bdb374d2694345ff72f995e6e2f5236aa9deccd6ee481f6907f9de1bb1a              292 Release
+ 0b6c2beab7df4034bafbe8da2d38fb8e3061f6839294a48105adb31ef2f4d529              303 Release
 SHA512:
- 9a49d71065ca0039e0a6a59b45e56ae1ed3888234d301003607df329b99cd1d0495fa32169960a8c8fa66b8e4dac5cb2d962fe8331aa40a05b7723e84070860e              292 Release
+ b8dd9486d7860b762e5e25acf286f37feee6c970905bab91f2f4e5ec2979c7fb7ab512cd136d7baeb612158b342993f975d0b428b3b19e524599ed0dfa3ceb3f              303 Release
