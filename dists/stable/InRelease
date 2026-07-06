@@ -1,3 +1,6 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA256
+
 Architectures: amd64
 Codename: stable
 Components: core-kernel core-userspace core-userspace-env core-userspace-backup-gui core-userspace-plasma-gui core-userspace-base alt-kernel
@@ -125,3 +128,19 @@ SHA512:
  4837cb0c747b88cd66d2e8a7cb7fe2808a8fd9f967e467810a0dddfee9befdef8891f3be5c26e319d2ac8a869cb9e39d5ba1fb484db73231cec9fd66d1d5df33               40 core-userspace/Contents-amd64.gz
  cf83e1357eefb8bdf1542850d66d8007d620e4050b5715dc83f4a921d36ce9ce47d0d13c5d85f2b0ff8318d2877eec2f63b931bd47417a81a538327af927da3e                0 core-userspace/binary-amd64/Packages
  bd5acf0e83ec52b8df680f42ca81222d89d1703726d9f5322f6af84dcbbdda6aee8b70cccd25a2ff297edd5b63d9baa81cfda9888a08890633fa7a61ef28bec1               64 core-userspace/binary-amd64/Packages.xz
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCAAdFiEEqE6gL0rUC2HVXNCbg6kD41JGQ6YFAmpMCR4ACgkQg6kD41JG
+Q6bW/w//SeG4clUJnzibKS2S8Ctmh8Q3bGDY7LjT9MZ8c/GKd9UU/7zXLRx32DPW
+RGca0pW7h1tXI3LzjZQ54lwDteCc8ZzbPA1l2mb8Y+M13AHYvpHIEMCJ7pMvhSkV
+1NIayyKpbOpYvKPyNeyf2BIPQlXTW8XeQ/XIaEGsZ6522AEikU2s4LFot9HJpREw
+jQ2T7hnh2JDX+vdxHHXXozX59sGIblseGOhTZCpIu6v21SU584VR+snSCsWBDVLo
+bdf9jvFJBOT52jZySw+GFVOqnKcRd6tY5bpqecIs0JFDDVVtY3S2W1b0wBmn+TZ2
+yGPm04uJaxDXMf3QH09QxqXPqmnnpEeL+4XjBh0TOHj4RWjLP0L9/qKXQ3woutQM
+cxHuUv5o71gahy6V+XzXPG+1lJMoL/UuDOnQTT24cJNHCV7rRgNe1uPFaFOSo/CC
+5Ch8b3HF0DnnoLUwYbOwjfGC7HZSWfIw8HXHwWCPIL6NBsjU3UzJx3PY9OgTQcK7
+t/MJ0Ag/wdpW7OrIZDEZ+Ttyqqkhak+RygPYKuqLJ+mZmGTq3fW5PK27Ba883my7
+v4THlYmmyIRQLWwDH/olDNan/vII+FQYTeoQydS4SrO6Cv3UyAf7kBJI6l86YJw0
+kiq7kEmQtWLBTbkuc8GscIbAc7IJAH8ldmvoCV7i88AmLBGdXC8=
+=Fhdd
+-----END PGP SIGNATURE-----
