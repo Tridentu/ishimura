@@ -4,12 +4,12 @@ Hash: SHA256
 Architectures: amd64
 Codename: stable
 Components: core-kernel core-userspace core-userspace-env core-userspace-backup-gui core-userspace-plasma-gui core-userspace-base alt-kernel
-Date: Wed, 02 Sep 2026 17:23:43 +0000
+Date: Wed, 02 Sep 2026 17:27:25 +0000
 Label: Ishimura Service Pack Repository for Tridentu 2
 Origin: Ishimura
 Suite: stable
 MD5Sum:
- 33c3828b94659b1c07e7e997ee6b3c04              303 Release
+ 69ebe60aad12325bbff84a3f4f426911              303 Release
  595b43bbc2a4ec9b3d838a58d63d19f1            16087 alt-kernel/Contents-amd64
  e80f8ce0669d27ab446c22a989765746             1930 alt-kernel/Contents-amd64.gz
  81db0be46f0efbc905dddc22e742dc6d              760 alt-kernel/binary-amd64/Packages
@@ -39,7 +39,7 @@ MD5Sum:
  d41d8cd98f00b204e9800998ecf8427e                0 core-userspace/binary-amd64/Packages
  0822ff38e3740008591bbf97f776e4b4               64 core-userspace/binary-amd64/Packages.xz
 SHA1:
- 6698025423bef222abf5ff3ded533184510e925d              303 Release
+ 48915311e7d4193a1009b66c8f33f0cb79610103              303 Release
  60aef8ba9440257e2816915337e6211bd3d0b37e            16087 alt-kernel/Contents-amd64
  c9c562691eeef939793c6194a1d93cd94dcd53b6             1930 alt-kernel/Contents-amd64.gz
  958347c5acef25b02eac97c7fb2ee9a92fd2419c              760 alt-kernel/binary-amd64/Packages
@@ -69,7 +69,7 @@ SHA1:
  da39a3ee5e6b4b0d3255bfef95601890afd80709                0 core-userspace/binary-amd64/Packages
  93be694d205263480513918c793e2fb2e1cdc051               64 core-userspace/binary-amd64/Packages.xz
 SHA256:
- 1331d1a7691ab89d149b368f7e84b5da17b0a01901bda04cce6d2afd82e73f9f              303 Release
+ 21ada5e2935f7f4455211d53f7b70ca8a7e3f56387bf27a8a95492cd02d3fb82              303 Release
  00346d8ae69cc0e1a22b812e6ffbf617dfbb6f0d3ca3a919da7828325403d89c            16087 alt-kernel/Contents-amd64
  106cbdded1ede502eb6ef2243d9e7f254d7c42301bb6426a0f717aec2bd45d9b             1930 alt-kernel/Contents-amd64.gz
  04004f9dbfb90a7cdea2d2d8f54307b29c904769931db6429f066af8d73b398e              760 alt-kernel/binary-amd64/Packages
@@ -99,7 +99,7 @@ SHA256:
  e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855                0 core-userspace/binary-amd64/Packages
  1ecf8ede6a1ae61b641204572f1da419db0786316399292b17e653658e90f36e               64 core-userspace/binary-amd64/Packages.xz
 SHA512:
- d122d5384b3ed64d122400d115406e65492060ccb772bea880899ffa3903290f284c575daa3cf38191817c2f96ce7e8f560eef859f4da10d0f6ea93032112f7c              303 Release
+ 2a7e9b5c6a9615d02c128c6f713b29afd03e94cea2d6a12c558432e6350069023de979855c89eaff571618f5e637aafdb9743fa23f676e822ef78f3f1c6b93b4              303 Release
  94561b40c03921a9d25d3ef4a703cb8a545e22e35ef66152f2e0617ff3414ef38bc8517b0470ec23c6752ecb1599417c4c542dfaba39bd8a2ed482591dd8f9a6            16087 alt-kernel/Contents-amd64
  d95c1b503f95a18305d87d6d0d63e137602efe7b07c6a2561275d237973bc22425d1f1c96e1010cc266a80481a259ba70ded4a6e47bf865e7f35ec461e898afe             1930 alt-kernel/Contents-amd64.gz
  91b34e4551fb68946b55780fc4012f10c4dc23cef2fbd0bc194f6420c8df0367921771562ae1ae23e7b08056b37e83b0eeac394c668b5be8a81d35bb629ec67a              760 alt-kernel/binary-amd64/Packages
@@ -130,17 +130,17 @@ SHA512:
  bd5acf0e83ec52b8df680f42ca81222d89d1703726d9f5322f6af84dcbbdda6aee8b70cccd25a2ff297edd5b63d9baa81cfda9888a08890633fa7a61ef28bec1               64 core-userspace/binary-amd64/Packages.xz
 -----BEGIN PGP SIGNATURE-----
 
-iQIzBAEBCAAdFiEEqE6gL0rUC2HVXNCbg6kD41JGQ6YFAmqYW58ACgkQg6kD41JG
-Q6b1RhAAiFo/a2ZG76o3MYdXKGT4Qs8WKKCiD+TZsDK/yRbV0CYtvxn9TmZ7dlF1
-NFuqsrE400pKWVY+2eILPhUBRbHBuufLWWMHsoFwqt4dtbXVfqfDXtIfM0NKhwm5
-dsSo1DLhnh0Yot7wcIhMIPoCzJKLIQXoW/NMP+Yd0x6lSsKUxw5pOyKSB65to7a5
-et05cKuzzk89sQgD3qd/iJpUnYK/C0swIfndh01mo+GA3szZliO8K3CLKWV6OxkO
-sGCYVj2bEf1nDM6NZ9XBC+8YQZJMZkH0u2xYH6L3Zh1/MbzOPoMOJk3M5lznRSDz
-xGkYA26lBJVdwXZgc92DkRgdrKW1TT9YuYYN7GIBhiMqsoLVGdboqOriL4zBoyf+
-C7TQ25a1W1OaTK/3dH4OkmOJ8L+XHFYtHKMhAvVcIm/R1qMve5zxItxboq7EnuM6
-G4Qgu6HlUkco+KXqq2hdIAVlPL4J/1IlTIhHkrleZ07AEgMCyjHHDAPddsSyyQRU
-WTfRvvcZT+O5GNQ8/5SwBzTvpLysMzkbonbQTdA8AkwxVLmoX3zbzE+ZOaI90qjp
-LvZahecJA5lJMP+Ue5wm6P5/8sYCIYvE+40Amtc8bAJm7wmtVuuNC/UQ2vBU6aGO
-afn0zgyW8+8bdAYkM2h81BrhTSMZTmMr3m7rUnnyh//xS3EE2ZA=
-=9DBU
+iQIzBAEBCAAdFiEEqE6gL0rUC2HVXNCbg6kD41JGQ6YFAmqYXH0ACgkQg6kD41JG
+Q6bdhhAApn253XQ0rzQWiRGaWayVc+LL9guRMG3ZkU/jYfiE+qhAgVeInmrBo5oM
+yHExGZiKMtGoszZ8abl8a3oigOjY6AcwOLapkjfjjsI36+83fOYtIyHfaRlfDAc9
+j6Jzxtmn/MgUthCjoSicDytWE0vRyHxwuG1XjEFG+5zw/lxykjYJXBKBHxyptjlR
+xkuvrhi4RHeR1LFs46UztWV6OtC74uqlq+riG24ua47PSB2MN4Rh1dVVbEbPxGxU
+Cl6G/KFHZ0ONZFm/7RtfXg/MvaWHZQcxWwEVBPuTogVB6JMn+nakNND6ssOk8/Au
+u1V8cmsMQQ6Ytd9YRSdZ/K0k4xqa1xhtuVlPCF5lFG50aYqM5VTNpPxv2gURpV82
++lXf8RvidoURbHzxIX8MaaQNK6NWfVy/naYIzMFE5WmzJEXras5h9aZZ8SKx9w6R
+btESjcg6IEDq7bUMuyJzTghl711RKnsT835xkCZWyHuHMXhow6XDz8AcrbJBwvKz
+i7XrdWJhbEGK0/ou+r9w3n2J0HpH/qO25t84TA3lY0w/tv1F50DyknldluGLl8RG
+kkmb/vdR4LQgdp/YDI69uhXmT3K3ZWSQIGNHSGrbdqxV8oVKUJ/9YJuL16AI2Vbt
+khcAcYAEjINmJU4DIiw7yJm6f594l/+djtIiHiMrAeW2qifesBI=
+=Utlh
 -----END PGP SIGNATURE-----
