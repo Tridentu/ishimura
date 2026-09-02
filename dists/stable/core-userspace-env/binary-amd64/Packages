@@ -1,0 +1,16 @@
+Package: clangd
+Architecture: amd64
+Version: 20.1.8
+Priority: optional
+Section: devel
+Maintainer: Tridentu Group <tridentugroup@gmail.com>
+Filename: ./dists/stable/core-userspace-env/binary-amd64/clangd_20.1.8_amd64.deb
+Size: 32029860
+MD5sum: ba3ce0a1a5ab88f04d997cc9b2a1b5e0
+SHA1: e0e74f10b5ea45661b23301d9c6b48478bcfff94
+SHA256: 4638a238b094272239bc6c49e43c71ac96359ed0d485f2605d6697f69f69bc5e
+SHA512: 7809804da7bf85474b3820e385f4b71dd282b4535b6013dcb052f290be06189ade7a5a413485657661d96064b813457687ce6914381bfad49e55b81627f0895a
+Description: Cangd language server for C/C++
+ This package provides the self-contained clangd binary distribution,
+ decoupled from the full LLVM/Clang compiler suite.
+
