@@ -1,0 +1,33 @@
+Package: openrc
+Architecture: amd64
+Version: 0.63.3
+Priority: optional
+Section: admin
+Maintainer: Tridentu Group <tridentugroup@gmail.com>
+Conflicts: systemd-sysv
+Filename: pool/alt-kernel/openrc_0.63.3_amd64.deb
+Size: 454780
+MD5sum: b9825b399096f3fdbed28ee26d5c408a
+SHA1: 0aaafeeea6747e4a3860543f795763fc265dcf65
+SHA256: 990b29ef43ea98ace6233a6d62128253a99720ad1c2d88029c9057309bb526b1
+SHA512: 00f42c5e3b81d4dd8e9392f8c87a7636682726a109897c9adaf91c9341a07fa2dadddd9ea14d4b6356ef29f8380d4a557f5551d590a471dc4020b2c4b02e308e
+Description: OpenRC init system provided as a secondary boot alternative
+ This package provides the OpenRC initialization daemons and scripts
+ to boot the system using the kernel argument init=/sbin/openrc-init.
+
+Package: clangd
+Architecture: amd64
+Version: 20.1.8
+Priority: optional
+Section: devel
+Maintainer: Tridentu Group <tridentugroup@gmail.com>
+Filename: pool/core-userspace-env/clangd_20.1.8_amd64.deb
+Size: 32019636
+MD5sum: e156b85e41053fdbd6a0b382d0f9fca6
+SHA1: 641be082b3cf2ae410742df3ddb51a04bec2214f
+SHA256: 67b46be004b1e9685def7c28468d2c5ff78dc0cffb69ffafb26a3c586f090b7d
+SHA512: b4cef14dc9b4a6bd152fc42d4b7c4c41b831948c3a19fe3ecfd763c604dc437c6a4fbbdb1d22230c7f16fc5beb29d17121ecd266103aa140e0ef8d0aedce099e
+Description: Cangd language server for C/C++
+ This package provides the self-contained clangd binary distribution,
+ decoupled from the full LLVM/Clang compiler suite.
+
