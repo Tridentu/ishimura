@@ -481,6 +481,7 @@ usr/libexec/rc/sh/s6.sh					    admin/openrc
 usr/libexec/rc/sh/start-stop-daemon.sh			    admin/openrc
 usr/libexec/rc/sh/supervise-daemon.sh			    admin/openrc
 usr/libexec/rc/version					    admin/openrc
+usr/share/applications/zen-browser.desktop		    web/zen-browser
 usr/share/bash-completion/completions/openrc		    admin/openrc
 usr/share/bash-completion/completions/rc-service	    admin/openrc
 usr/share/bash-completion/completions/rc-status		    admin/openrc

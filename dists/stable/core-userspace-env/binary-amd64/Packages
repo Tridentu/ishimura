@@ -15,6 +15,21 @@ Description: OpenRC init system provided as a secondary boot alternative
  This package provides the OpenRC initialization daemons and scripts
  to boot the system using the kernel argument init=/sbin/openrc-init.
 
+Package: zen-browser
+Architecture: amd64
+Version: 1.22.1b
+Priority: standard
+Section: web
+Maintainer: Tridentu Group <tridentugroup@gmail.com>
+Filename: pool/core-userspace-backup-gui/zen-browser_1.22.1b_amd64.deb
+Size: 1580
+MD5sum: 1b9e6284834838b9c0dc750ea9fbe137
+SHA1: 27d1983db98dfc4a310052b480143034cfde4beb
+SHA256: 8b5dcc8e2b9b9c6b0a0adefadd58a0a17354f2fe69655d345eafa86d8cddd0d1
+SHA512: 22a8e2f1f322f28f202b55b3946dbad07a83b5cba04de2ac785ca083c51b98a4b3a960ed6a6372f9973d54295725373648a51b7c7c3ee77575a53ec1b20b227c
+Description: Tne Zen Browser. Packaged in the latest version to
+    fix an issue with SSL and make updates easier.
+
 Package: clangd
 Architecture: amd64
 Version: 20.1.8
