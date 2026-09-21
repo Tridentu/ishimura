@@ -3,10 +3,10 @@ Version: 1.22.1b
 Architecture: amd64
 Maintainer: Tridentu Group <tridentugroup@gmail.com>
 Filename: pool/core-userspace-backup-gui/zen-browser_1.22.1b_amd64.deb
-Size: 1580
-MD5sum: 1b9e6284834838b9c0dc750ea9fbe137
-SHA1: 27d1983db98dfc4a310052b480143034cfde4beb
-SHA256: 8b5dcc8e2b9b9c6b0a0adefadd58a0a17354f2fe69655d345eafa86d8cddd0d1
+Size: 1664
+MD5sum: 6a356f67f2a360a08da95584551b8b66
+SHA1: 3116a5106cced241dd0311267f6c4bcadc9bb656
+SHA256: 4a5524e6eef5a9622c7d26cd57b62fef3e3c55c2d0efa3b52cea3d9c433b1d92
 Section: web
 Priority: standard
 Description: Tne Zen Browser. Packaged in the latest version to
