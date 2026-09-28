@@ -1,0 +1,15 @@
+Package: vicinae
+Version: 0.29.0
+Architecture: amd64
+Maintainer: Tridentu Group <tridentugroup@gmail.com>
+Filename: pool/core-userspace-backup-gui/vicinae-0.29.0_amd64.deb
+Size: 13365400
+MD5sum: c7cdaa1fb21cc6e9c8a527f7c5b07d4d
+SHA1: 2c11126f9413356745d667820aeefc5e2c50977c
+SHA256: 2e68baada76b8e5dfea4f3f554ac1714258e2c199e861990a8fbcc0263ca8abf
+Section: gui-standard
+Priority: standard
+Description: Vicinae - A focused launcher for your desktop - native, fast, extensible
+ This package provides the Vicinae application launcher. This package is a
+ core part of the Tridentu 2 GT variant (1.5+)
+
