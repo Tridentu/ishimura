@@ -1,3 +1,17 @@
+Package: dashy
+Version: 4.7.0
+Architecture: amd64
+Maintainer: Tridentu Group <tridentugroup@gmail.com>
+Filename: pool/core-userspace-backup-gui/dashy-4.7.0_amd64.deb
+Size: 3594920
+MD5sum: 116dc17bee2e93eb10f14cb13e3e904c
+SHA1: 8d8261ab3b4cecde2030eadfc87afd5c1de22dd7
+SHA256: 5afa9031e8cb56e8e67cc39191d956c39056174ac9ee20c01e2a56948eb43b35
+Section: web
+Priority: standard
+Description: Dashboard/Startpage for the web.
+    Used as the default for Tridentu 2 GT+ (1.5+)
+
 Package: vicinae
 Version: 0.29.0
 Architecture: amd64
