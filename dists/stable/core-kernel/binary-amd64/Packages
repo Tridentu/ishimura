@@ -1,14 +1,14 @@
 Package: linux-kernel-docs
 Version: 7.1.8
-Architecture: any
+Architecture: amd64
 Essential: yes
 Maintainer: Tridentu Group <tridentugroup@gmail.com>
 Provides: linux-kernel-docs
 Filename: pool/core-kernel/linux-kernel-docs_7.1.8_amd64.deb
-Size: 10827364
-MD5sum: 922655b8254d0fa7af4b31620dbe35fc
-SHA1: 7864494fda58f371c64da8723511e12d50d1d733
-SHA256: 51b79781c2f3cba106bd713bdd7d797b2c081c938ff9fb99d3cbd19dfab32cae
+Size: 10827368
+MD5sum: 45530051fdd10d5e590dce6e7c5c0b0e
+SHA1: 5c2725a05d2a5ae0095eab4caa679dc99432f943
+SHA256: 8c16ade92c98bbccc577ee236aa95631aa55a45a619eb3554f4a1aa58d582865
 Section: kernel
 Priority: required
 Description: Mandatory Linux kernel headers
@@ -18,15 +18,15 @@ Description: Mandatory Linux kernel headers
 
 Package: linux-kernel-hdrs
 Version: 7.1.8
-Architecture: any
+Architecture: amd64
 Essential: yes
 Maintainer: Tridentu Group <tridentugroup@gmail.com>
 Provides: linux-kernel-hdrs
 Filename: pool/core-kernel/linux-kernel-hdrs_7.1.8_amd64.deb
-Size: 1473108
-MD5sum: 0634594a0fbcc62035e5b86d3bd52d57
-SHA1: cc03f216c83df0cb8d03b0c39d9ed54e29d8f0f7
-SHA256: 9f35567839691f8c452255879dced7941b620d514cf964f1a0e41d77d4323235
+Size: 1473012
+MD5sum: d7a44c6f7e0cdd128e04f3fd467d5203
+SHA1: 39b8a81e8ee27eed45108dda11e49a71fcb6fda5
+SHA256: 3f035110a97fc22a925b8c4b305b286e801995d08c3ef82ced05aea6943a80fd
 Section: kernel
 Priority: required
 Description: Mandatory Linux kernel headers
@@ -36,15 +36,15 @@ Description: Mandatory Linux kernel headers
 
 Package: linux-kernel-image
 Version: 7.1.8
-Architecture: any
+Architecture: amd64
 Essential: yes
 Maintainer: Tridentu Group <tridentugroup@gmail.com>
 Provides: linux-kernel-image
 Filename: pool/core-kernel/linux-kernel-image_7.1.8_amd64.deb
 Size: 12575980
-MD5sum: c0a324bc614741aeabea6258469d859c
-SHA1: aca1a7ae4192dfaf89f205480fba0db495f26da5
-SHA256: 23e16cff3f1e64b6624a2f98fb1ff63caf7d7157f6fc33b8a5b0a4a3e7a78dd8
+MD5sum: 8437719a1aa47694708d16535a3004f9
+SHA1: ff786b4b433e90ed941ffc2409cad595b3710637
+SHA256: a6b15503393a2365b16a3ecd5db5cc23a44c5cbf9fd8e08b60431204efa172ac
 Section: kernel
 Priority: required
 Description: Mandatory Linux kernel binary image
