@@ -1,3 +1,21 @@
+Package: linux-kernel-hdrs
+Version: 7.1.8
+Architecture: any
+Essential: yes
+Maintainer: Tridentu Group <tridentugroup@gmail.com>
+Provides: linux-kernel-hdrs
+Filename: pool/core-kernel/linux-kernel-hdrs_7.1.8_amd64.deb
+Size: 1473108
+MD5sum: 0634594a0fbcc62035e5b86d3bd52d57
+SHA1: cc03f216c83df0cb8d03b0c39d9ed54e29d8f0f7
+SHA256: 9f35567839691f8c452255879dced7941b620d514cf964f1a0e41d77d4323235
+Section: kernel
+Priority: required
+Description: Mandatory Linux kernel headers
+ This package contains the core Linux kernel headers. It is marked as
+ Essential and Required, meaning the system package manager will
+ prevent its removal to ensure the system remains bootable and functional.
+
 Package: linux-kernel-image
 Version: 7.1.8
 Architecture: any
