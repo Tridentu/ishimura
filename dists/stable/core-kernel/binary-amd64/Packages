@@ -1,3 +1,21 @@
+Package: linux-kernel-docs
+Version: 7.1.8
+Architecture: any
+Essential: yes
+Maintainer: Tridentu Group <tridentugroup@gmail.com>
+Provides: linux-kernel-docs
+Filename: pool/core-kernel/linux-kernel-docs_7.1.8_amd64.deb
+Size: 10827364
+MD5sum: 922655b8254d0fa7af4b31620dbe35fc
+SHA1: 7864494fda58f371c64da8723511e12d50d1d733
+SHA256: 51b79781c2f3cba106bd713bdd7d797b2c081c938ff9fb99d3cbd19dfab32cae
+Section: kernel
+Priority: required
+Description: Mandatory Linux kernel headers
+ This package contains the core Linux kernel documentation. It is marked as
+ Essential and Required, meaning the system package manager will
+ prevent its removal to ensure the system remains bootable and functional.
+
 Package: linux-kernel-hdrs
 Version: 7.1.8
 Architecture: any
