@@ -1,0 +1,17 @@
+Package: vhba-dkms
+Source: vhba-module
+Version: 20260313
+Architecture: any
+Maintainer: Tridentu Group <tridentugroup@gmail.com>
+Filename: pool/core-kernel-drivers/vhba-dkms_20260313-1_all.deb
+Size: 3880
+MD5sum: 80e0fe1432d7a5463d323cffe26137b0
+SHA1: f817098563acd9f36d8ac4d022abbbd9e2c433de
+SHA256: db96de463a33b5099e4c0058a12ec5944adf263bb2771533a46ed26e7bbe04fb
+Section: kernel
+Priority: required
+Homepage: https://cdemu.sourceforge.io/
+Description: VHBA virtual host bus adapter module
+ VHBA kernel module, a virtual SCSI host bus adapter used by CDEmu daemon from
+ the CDEmu suite.
+
