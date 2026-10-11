@@ -1,3 +1,17 @@
+Package: kexec-tools
+Version: 2.0.32
+Architecture: amd64
+Essential: yes
+Maintainer: Tridentu Group <tridentugroup@gmail.com>
+Filename: pool/core-kernel/kexec-tools_2.0.32_amd64.deb
+Size: 243748
+MD5sum: 39ba00fa4e8dbb568327a65d372beeb9
+SHA1: bac307e43ddedc1ba38cdf4fd692ca3d0ba2c154
+SHA256: d7dc71f7952b6d3d35846308b2d7fcdc1d2adbeb97dd1c6e6658bb88c5452931
+Section: kernel
+Priority: required
+Description: Kexec Tools - A set of programs that provides the user-space utilities needed to load and boot a new Linux kernel directly from a currently running kernel without going through a standard hardware or BIOS reboot.
+
 Package: linux-kernel-docs
 Version: 7.1.8
 Architecture: amd64
