@@ -5,10 +5,10 @@ Architecture: any
 Essential: yes
 Maintainer: Tridentu Group <tridentugroup@gmail.com>
 Filename: pool/core-kernel-drivers/vhba-dkms_20260313-1_all.deb
-Size: 3856
-MD5sum: e106c624817edcc2ea0baf3c3e984317
-SHA1: 307fa59322db5e5979c94fa83ed18bbcfb4393a9
-SHA256: 89550d4cb9bbaebc0dcd68bd8d17d60fcf59a8982e7ecd7a38d5323ea563b2b6
+Size: 3704
+MD5sum: 58729ad7daf434b9e5dea48de6fefdf6
+SHA1: d389716ecc141415614393f8ad9be3982cb8d83d
+SHA256: 5d1141763514e5acf837d5065e21c0345a752bf6a5add84d10e348ef05b1523a
 Section: kernel
 Priority: required
 Homepage: https://cdemu.sourceforge.io/
