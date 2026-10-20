@@ -1,12 +1,12 @@
 Architectures: amd64 any
 Codename: stable
 Components: core-kernel core-kernel-drivers core-userspace core-userspace-env core-userspace-backup-gui core-userspace-plasma-gui core-userspace-base alt-kernel
-Date: Sun, 11 Oct 2026 00:53:22 +0000
+Date: Tue, 20 Oct 2026 23:38:38 +0000
 Label: Ishimura Service Pack Repository for Tridentu 2
 Origin: Ishimura
 Suite: stable
 MD5Sum:
- 063c93c795860d545ef4920f7d685306              327 Release
+ 0a9ae8d64e1dc39e4babcc3aea04c73d              327 Release
  d4cb06cbae510892987b74b391cb26a2            33121 alt-kernel/Contents-amd64
  be0e2d23c606a4ae6513e5b48a5c42ac             3604 alt-kernel/Contents-amd64.gz
  7da010e364b3a07caefc0f5aebb6a33e             2054 alt-kernel/binary-amd64/Packages
@@ -19,8 +19,8 @@ MD5Sum:
  4ce55f80268379838a237b729ba8f653             1184 core-kernel/binary-amd64/Packages.xz
  345203e0fe4c3a8747d41e77dd6f1558               60 core-userspace-backup-gui/Contents-amd64
  be0e2d23c606a4ae6513e5b48a5c42ac             3604 core-userspace-backup-gui/Contents-amd64.gz
- c49a1ded09b1f719be2c31847fcc816c             1068 core-userspace-backup-gui/binary-amd64/Packages
- 05cb1125b47d45e413232b7f96cd73d0              688 core-userspace-backup-gui/binary-amd64/Packages.xz
+ 36efbac5e65726d0ba0d09c6e65995b2             1617 core-userspace-backup-gui/binary-amd64/Packages
+ d4dce498e0aa0b9733fe69721130d944              900 core-userspace-backup-gui/binary-amd64/Packages.xz
  d4cb06cbae510892987b74b391cb26a2            33121 core-userspace-base/Contents-amd64
  be0e2d23c606a4ae6513e5b48a5c42ac             3604 core-userspace-base/Contents-amd64.gz
  7da010e364b3a07caefc0f5aebb6a33e             2054 core-userspace-base/binary-amd64/Packages
@@ -38,7 +38,7 @@ MD5Sum:
  2e497d74b99b773d4928dcff444019a3              739 core-userspace/binary-amd64/Packages
  4cc7223de88b4db25d4b572a44653372              612 core-userspace/binary-amd64/Packages.xz
 SHA1:
- e231b9b45fcdcd82b19270013305c79f5750a75c              327 Release
+ a2916cbb2e32415f686648534adc4d48dc35c914              327 Release
  b51683a8931976c548b41c193cb6070c60d865ac            33121 alt-kernel/Contents-amd64
  2aaf89b314554e5b93e6de8d9e834c22db999431             3604 alt-kernel/Contents-amd64.gz
  ce74026cb552e3a0cc87141388ea94661a7d41a1             2054 alt-kernel/binary-amd64/Packages
@@ -51,8 +51,8 @@ SHA1:
  26b9a4703fe3430598c2cf42ebcb93459c8ece12             1184 core-kernel/binary-amd64/Packages.xz
  1be5612e343fb8f672f91548ed6013e0ccaf954c               60 core-userspace-backup-gui/Contents-amd64
  2aaf89b314554e5b93e6de8d9e834c22db999431             3604 core-userspace-backup-gui/Contents-amd64.gz
- 17f00f4c6f788384c67ca0f38bdfed395e6fff04             1068 core-userspace-backup-gui/binary-amd64/Packages
- ce42ba6aa5f7f9c40ce0db78c1c6d9b760d27255              688 core-userspace-backup-gui/binary-amd64/Packages.xz
+ 5786737ad32505e4929b54e8398b14a632fb7187             1617 core-userspace-backup-gui/binary-amd64/Packages
+ d674be154f6767a279f4c719cab2237d40343fbf              900 core-userspace-backup-gui/binary-amd64/Packages.xz
  b51683a8931976c548b41c193cb6070c60d865ac            33121 core-userspace-base/Contents-amd64
  2aaf89b314554e5b93e6de8d9e834c22db999431             3604 core-userspace-base/Contents-amd64.gz
  ce74026cb552e3a0cc87141388ea94661a7d41a1             2054 core-userspace-base/binary-amd64/Packages
@@ -70,7 +70,7 @@ SHA1:
  8826b1abc7e9fa92c1fd354943396fc629451f27              739 core-userspace/binary-amd64/Packages
  d8100a239624336d076cbee0fb8992baba74a145              612 core-userspace/binary-amd64/Packages.xz
 SHA256:
- 816da2534e341bc5a2d29ba6c7d78830e5582f8488b9eca73f74bce6cabd80d3              327 Release
+ c5d4b6ad15bce79d2514105f21dcd15b7170efa87c28f4f682e11a3505afc3cb              327 Release
  fe57ac174f7769c6da69f462259868e4ca7e44a7f047dae409d7189a7307cc09            33121 alt-kernel/Contents-amd64
  29e3c9325d2e627524a5ec1b2d5a48813a481386957fc0d59dfab6b6a86319ba             3604 alt-kernel/Contents-amd64.gz
  fbd5fad11b2f9c3a13dd5a789020e788b1ac6e002d969c08ba87814247c21ab8             2054 alt-kernel/binary-amd64/Packages
@@ -83,8 +83,8 @@ SHA256:
  17f2c3411cb1ea0ece933ee30f1fee6fbafc709aea5dd7000cfedd5cd4854b49             1184 core-kernel/binary-amd64/Packages.xz
  696c44715c1907e65eef7445b9e1dfb8ec4646f7acf50537c795635eea30b04e               60 core-userspace-backup-gui/Contents-amd64
  29e3c9325d2e627524a5ec1b2d5a48813a481386957fc0d59dfab6b6a86319ba             3604 core-userspace-backup-gui/Contents-amd64.gz
- b050a81644398060469ecbab815359f4693949ba2f3073a182560d2a8a9446f4             1068 core-userspace-backup-gui/binary-amd64/Packages
- f7c209a3511508f68a3ebabc6e10db2c8aebc767e2dfd63347c1d3855a6795f8              688 core-userspace-backup-gui/binary-amd64/Packages.xz
+ 98de2e6c3c64bd693ea54f9fc6ad4c300681980922d467cd3b76967f713b69b1             1617 core-userspace-backup-gui/binary-amd64/Packages
+ 47230e26822b9eea3359368fc45533782a5926e0e1aa21e393080763e4727044              900 core-userspace-backup-gui/binary-amd64/Packages.xz
  fe57ac174f7769c6da69f462259868e4ca7e44a7f047dae409d7189a7307cc09            33121 core-userspace-base/Contents-amd64
  29e3c9325d2e627524a5ec1b2d5a48813a481386957fc0d59dfab6b6a86319ba             3604 core-userspace-base/Contents-amd64.gz
  fbd5fad11b2f9c3a13dd5a789020e788b1ac6e002d969c08ba87814247c21ab8             2054 core-userspace-base/binary-amd64/Packages
@@ -102,7 +102,7 @@ SHA256:
  7d0abe08c4c1bd7e434416dc0627d98b592342f2ae41f042cc63e1dd23f8f394              739 core-userspace/binary-amd64/Packages
  0ff55ebaafcafdab63d66fbb08b9fd33ede1578dc26e41d4d68526250e57e5b4              612 core-userspace/binary-amd64/Packages.xz
 SHA512:
- 554a3941a8d4a9655981edbd806596ca118629dde185c3b6a7b5f37b8df151012514bf08045645c8037659f4d0de42950f7e47f1ee65b7ccd6f36dd84550f5be              327 Release
+ 6dce4e90ad8c273c5fddc447ad5c2588f68b577bbf641f85cb85d59e6243c77aa7381204df412deb4944fe7bae79f4fed5b2426db13f41d0f5b4c3091ecc83f5              327 Release
  9285725bf45d6611114c9c191cd0f949bc62cc4388c74a2daa79cd830c23c5ee0d8d7e34be9904b5c4333f9cfac04aaa3cd8a7aec88a66bf723feca81f080572            33121 alt-kernel/Contents-amd64
  d18ba4b67e64377f8c18f041a21dff8795252c8a5a7d0be07dfa27f6a8255b43e9ca64df56a7e0bc156942a97d0eb17963298fedb1e47118950997b51a73ec62             3604 alt-kernel/Contents-amd64.gz
  12d24a7530e68e7309d1b45dab9130a197bbf3734dabb4c33041328efebaaf4359126b78986bb5cc3d8eae68e0224165711e8c8210f2e3250b0a106c8a36e8c7             2054 alt-kernel/binary-amd64/Packages
@@ -115,8 +115,8 @@ SHA512:
  4a502d45d921218bb113c071242750ea41048f63e75a8274415a0522d4c767e8ac65399e054bf26252428fb859ef097d56628f55967fcc4d94a8b5d15b046212             1184 core-kernel/binary-amd64/Packages.xz
  c1c25a2c64a5f6d432ba7c9c21e342b276ef3be2700ac2a2eb460a6711d7c91548ab61aaa0a3539b09f77a304a55d0de0fa0536a6ef7068e873c1811ac43bf1d               60 core-userspace-backup-gui/Contents-amd64
  d18ba4b67e64377f8c18f041a21dff8795252c8a5a7d0be07dfa27f6a8255b43e9ca64df56a7e0bc156942a97d0eb17963298fedb1e47118950997b51a73ec62             3604 core-userspace-backup-gui/Contents-amd64.gz
- 38ff0250f7dc4143d26da6f1734d34ed94471204a66fb2e23a16bf842e05bf3995c153f9a3c75a292f5dfc7cda4ba357aaa2eb0af55ecc804d8897f29e8d83f6             1068 core-userspace-backup-gui/binary-amd64/Packages
- fc34d7750cdad5e57d92bca6743de115c1b7fbda72d678902ed3fb5f948539d6e9a1c111f7d8f76e909c4110087cd28d4db8ecd693431f72193b59067822d0bd              688 core-userspace-backup-gui/binary-amd64/Packages.xz
+ 03269fec4c627939d012c3d18459a89aafb3a976c92fe5446b86f77aafc84867edb0a210f5abc73412ed2e791b586205f9429301f2938a269bf55af435aba336             1617 core-userspace-backup-gui/binary-amd64/Packages
+ f719305c29f90e2580a13ac29c6f549d53c760246bedd68569d785272c156dfe6cda65da420eb4ca2a6b22c7845e9c8022cf393d7c48fceb13c222c81ae2e148              900 core-userspace-backup-gui/binary-amd64/Packages.xz
  9285725bf45d6611114c9c191cd0f949bc62cc4388c74a2daa79cd830c23c5ee0d8d7e34be9904b5c4333f9cfac04aaa3cd8a7aec88a66bf723feca81f080572            33121 core-userspace-base/Contents-amd64
  d18ba4b67e64377f8c18f041a21dff8795252c8a5a7d0be07dfa27f6a8255b43e9ca64df56a7e0bc156942a97d0eb17963298fedb1e47118950997b51a73ec62             3604 core-userspace-base/Contents-amd64.gz
  12d24a7530e68e7309d1b45dab9130a197bbf3734dabb4c33041328efebaaf4359126b78986bb5cc3d8eae68e0224165711e8c8210f2e3250b0a106c8a36e8c7             2054 core-userspace-base/binary-amd64/Packages

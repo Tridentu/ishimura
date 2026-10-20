@@ -12,6 +12,22 @@ Priority: standard
 Description: Dashboard/Startpage for the web.
     Used as the default for Tridentu 2 GT+ (1.5+)
 
+Package: flatpak
+Version: 1.18.1
+Architecture: amd64
+Essential: yes
+Maintainer: Tridentu Group <tridentugroup@gmail.com>
+Filename: pool/core-userspace-backup-gui/flatpak_1.18.1_amd64.deb
+Size: 1933840
+MD5sum: a7234e7b9641f71f33d2420ea3edbc12
+SHA1: 3d7f540a0260fe4c68de4172e9a12907175ae481
+SHA256: 3a70710d546e89f9414cfcbe7ca4109b05907c2693a43981c966543d64ee93b3
+Section: system
+Priority: standard
+Description: Flatpak package manager.
+    This package is marked as essential due to the lack of optional GUI programs in the Ishimura
+    repository.
+
 Package: vicinae
 Version: 0.29.0
 Architecture: amd64
