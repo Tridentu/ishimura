@@ -1,14 +1,14 @@
 Package: vhba-dkms
 Source: vhba-module
 Version: 20260313
-Architecture: any
+Architecture: amd64
 Essential: yes
 Maintainer: Tridentu Group <tridentugroup@gmail.com>
-Filename: pool/core-kernel-drivers/vhba-dkms_20260313-1_all.deb
-Size: 3920
-MD5sum: 8f875f49eca9fa899fc96cae0082652a
-SHA1: 538b20c57026dea3b41a04f9a3c35cd180875ab3
-SHA256: 47882861c3f1b15d47dbe26bc382f8dd5add21d060ec440996ee1bc3d33eee9f
+Filename: pool/core-kernel-drivers/vhba-dkms_20260313-1_amd64.deb
+Size: 3916
+MD5sum: 8ff94309d7d5279ba6ebff3415860a76
+SHA1: d32bb7854a5f5f9d2fa77e009224848c0f85d077
+SHA256: 69814d30fc46e6a85f0afe9616c5a3f70ef4cf79d57e0e95bbd32559d5bb89de
 Section: kernel
 Priority: required
 Homepage: https://cdemu.sourceforge.io/
