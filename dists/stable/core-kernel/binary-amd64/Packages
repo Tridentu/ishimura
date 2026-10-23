@@ -67,16 +67,16 @@ Description: Mandatory Linux kernel binary image
  prevent its removal to ensure the system remains bootable and functional.
 
 Package: linux-kernel-modules-base
-Version: 7.1.8
+Version: 7.1.8-1
 Architecture: amd64
 Essential: yes
 Maintainer: Tridentu Group <tridentugroup@gmail.com>
 Provides: linux-kernel-modules-base
 Filename: pool/core-kernel/linux-kernel-modules-base_7.1.8_amd64.deb
-Size: 12482472
-MD5sum: 4b998202bf02f4d730151ef073198909
-SHA1: 688650d2f23df87e9c5ea296622367447571582d
-SHA256: 04f99fa75dad71ec95bb83cfc2c24250c4ae59caab0b45d5f57c20e100f8520f
+Size: 12482468
+MD5sum: 0eaea5ae9b84f5ed5b00c5473347c337
+SHA1: 6694f4f854ed7143dd62d29227fc7bbd2b04284a
+SHA256: d281e64fb31cdb433c68ecbcc9661bb85e5a39536a6d747b00a885c25af7b344
 Section: kernel
 Priority: required
 Description: Mandatory Linux kernel modules
