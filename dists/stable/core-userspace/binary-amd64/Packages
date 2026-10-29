@@ -1,3 +1,17 @@
+Package: btop
+Version: 1.4.7
+Architecture: amd64
+Essential: yes
+Maintainer: Tridentu Group <tridentugroup@gmail.com>
+Filename: pool/core-userspace/btop_1.4.7_amd64.deb
+Size: 655436
+MD5sum: 9b7877641f80379d05527db666d717fc
+SHA1: 191e6bb53b5aa098ce7adac4d615fe58ff2e6c17
+SHA256: 370b9cdb305478f5b0ec5b761c3ddb13a8d24a0e2daa1660d0304ce8e94afdea
+Section: standard
+Priority: standard
+Description: BTOP - A monitor of resources
+
 Package: libnghttp2
 Version: 1.70.0
 Architecture: amd64
