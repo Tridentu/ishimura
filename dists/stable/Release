@@ -1,12 +1,12 @@
 Architectures: amd64 any
 Codename: stable
 Components: core-kernel core-kernel-drivers core-userspace core-userspace-env core-userspace-backup-gui core-userspace-plasma-gui core-userspace-base alt-kernel
-Date: Thu, 29 Oct 2026 16:10:19 +0000
+Date: Sun, 01 Nov 2026 23:59:29 +0000
 Label: Ishimura Service Pack Repository for Tridentu 2
 Origin: Ishimura
 Suite: stable
 MD5Sum:
- cfa74095d0d962997474275e2eb9ba03              327 Release
+ 783d7e38fdda5fcad30c85f1a4cf7295              327 Release
  d4cb06cbae510892987b74b391cb26a2            33121 alt-kernel/Contents-amd64
  be0e2d23c606a4ae6513e5b48a5c42ac             3604 alt-kernel/Contents-amd64.gz
  7da010e364b3a07caefc0f5aebb6a33e             2054 alt-kernel/binary-amd64/Packages
@@ -35,10 +35,10 @@ MD5Sum:
  57f459ebd8d317d5ad717993449266bd              412 core-userspace-plasma-gui/binary-amd64/Packages.xz
  d4cb06cbae510892987b74b391cb26a2            33121 core-userspace/Contents-amd64
  be0e2d23c606a4ae6513e5b48a5c42ac             3604 core-userspace/Contents-amd64.gz
- 4ac951a63392e95f32c28eea1ce721b5             1162 core-userspace/binary-amd64/Packages
- d76923596d5f7f89977c6b2260802fb4              772 core-userspace/binary-amd64/Packages.xz
+ 1ba80e9c4abc7890d663b8a44151e400             1570 core-userspace/binary-amd64/Packages
+ 9e49d6ad2168902eaca3e1585172ebaa              920 core-userspace/binary-amd64/Packages.xz
 SHA1:
- 80e2189b23e3e02d748d73f89474af41baf1ae47              327 Release
+ 16c614486f9800aefaa73a001029da827b361e86              327 Release
  b51683a8931976c548b41c193cb6070c60d865ac            33121 alt-kernel/Contents-amd64
  2aaf89b314554e5b93e6de8d9e834c22db999431             3604 alt-kernel/Contents-amd64.gz
  ce74026cb552e3a0cc87141388ea94661a7d41a1             2054 alt-kernel/binary-amd64/Packages
@@ -67,10 +67,10 @@ SHA1:
  2decb0048a09e9d401c68bd712593059078058da              412 core-userspace-plasma-gui/binary-amd64/Packages.xz
  b51683a8931976c548b41c193cb6070c60d865ac            33121 core-userspace/Contents-amd64
  2aaf89b314554e5b93e6de8d9e834c22db999431             3604 core-userspace/Contents-amd64.gz
- fae609cdaab81a8792a4285b92bc36e9cdb17d36             1162 core-userspace/binary-amd64/Packages
- 3319bfcb92fba18cd89486a72340c1ea6929d49a              772 core-userspace/binary-amd64/Packages.xz
+ 8d7e8ffda83f07a85208f016e407ae3601b7a572             1570 core-userspace/binary-amd64/Packages
+ 47538c945983510a16493ac39f3def4fb54c75da              920 core-userspace/binary-amd64/Packages.xz
 SHA256:
- 5015e4acb997160857a3cb8df1da6ec6e7379353af227b0485fff1c851ee74be              327 Release
+ ce44f1f99a948ccde05e273056a540e1f64267beaeb3151e64c5046fa0ce2d11              327 Release
  fe57ac174f7769c6da69f462259868e4ca7e44a7f047dae409d7189a7307cc09            33121 alt-kernel/Contents-amd64
  29e3c9325d2e627524a5ec1b2d5a48813a481386957fc0d59dfab6b6a86319ba             3604 alt-kernel/Contents-amd64.gz
  fbd5fad11b2f9c3a13dd5a789020e788b1ac6e002d969c08ba87814247c21ab8             2054 alt-kernel/binary-amd64/Packages
@@ -99,10 +99,10 @@ SHA256:
  e680a58309d466bdedd1b1ea881811daec91a67062d54289e13a7844b0c9686f              412 core-userspace-plasma-gui/binary-amd64/Packages.xz
  fe57ac174f7769c6da69f462259868e4ca7e44a7f047dae409d7189a7307cc09            33121 core-userspace/Contents-amd64
  29e3c9325d2e627524a5ec1b2d5a48813a481386957fc0d59dfab6b6a86319ba             3604 core-userspace/Contents-amd64.gz
- da381b54944e021ba271044ea853e9bfe981b90fb93f7013db78ab042e3c1490             1162 core-userspace/binary-amd64/Packages
- 0da604565656eb24e3b2258aa39c52ac4acc0a1a6b185d9c451c1db516cd990d              772 core-userspace/binary-amd64/Packages.xz
+ e08e4d7e1b597c46cbbed39290a713f908e951b1a67c2f4f12c0f51c9fcbe7e0             1570 core-userspace/binary-amd64/Packages
+ 40f5db0eb3f2334579e81a47475f099c41ff13350492f0bf13ea4bdd59a78678              920 core-userspace/binary-amd64/Packages.xz
 SHA512:
- 09bde11256b3c05574a04b3f8b31b0ef1392f72e22ae1db4037ad1d69aa5c19853886a0766bbfb149705f36efed6830a88298d62984b6f07c4bc0eb94503b08c              327 Release
+ b188ab841d15011f95e7000412b7d8d10cddc4c25372a88d290bc2c7e7a9c4e252d7dbc75aff554aad85a45723e2fe616241afbef3c18331252b7883347a4b3f              327 Release
  9285725bf45d6611114c9c191cd0f949bc62cc4388c74a2daa79cd830c23c5ee0d8d7e34be9904b5c4333f9cfac04aaa3cd8a7aec88a66bf723feca81f080572            33121 alt-kernel/Contents-amd64
  d18ba4b67e64377f8c18f041a21dff8795252c8a5a7d0be07dfa27f6a8255b43e9ca64df56a7e0bc156942a97d0eb17963298fedb1e47118950997b51a73ec62             3604 alt-kernel/Contents-amd64.gz
  12d24a7530e68e7309d1b45dab9130a197bbf3734dabb4c33041328efebaaf4359126b78986bb5cc3d8eae68e0224165711e8c8210f2e3250b0a106c8a36e8c7             2054 alt-kernel/binary-amd64/Packages
@@ -131,5 +131,5 @@ SHA512:
  36edb0b1a8057b30da20dbd33f8e4153eccf3f5f2286662face23bbd3f37a6103882d35a2cc4813bc8884396aa20797834889e17b75e8bf4a9711c04f35844e8              412 core-userspace-plasma-gui/binary-amd64/Packages.xz
  9285725bf45d6611114c9c191cd0f949bc62cc4388c74a2daa79cd830c23c5ee0d8d7e34be9904b5c4333f9cfac04aaa3cd8a7aec88a66bf723feca81f080572            33121 core-userspace/Contents-amd64
  d18ba4b67e64377f8c18f041a21dff8795252c8a5a7d0be07dfa27f6a8255b43e9ca64df56a7e0bc156942a97d0eb17963298fedb1e47118950997b51a73ec62             3604 core-userspace/Contents-amd64.gz
- 76ff5457643f9ce35ad8595f13482c95b21787f1619dadea2094763f408f567fde2462ef00acb12fa6b29258e9c04874edd3be8d7074a57604ff7d64d7d883c6             1162 core-userspace/binary-amd64/Packages
- cbaf6f36c71c554be58bebbbf9a3565f0839439e86b0d8dbd905cc96f2b2d639f305f9b5e0f829d2b553baaa2a3e63ecfc2d48dc1f405bf09b5befab810d3628              772 core-userspace/binary-amd64/Packages.xz
+ 969606ef64626c00ffb822d259d5b67cc8bc516c95fe8b120cd8b350c56ad7c6ef26b489d66a847f702533bec52d277f5a2e5ec30643aff5c9534a657d13be1d             1570 core-userspace/binary-amd64/Packages
+ a4b6c8e2a6aaafd93795c581bdc164918d55117103e6f774f468e9012fc1d872a5b0fac9ea1a7f6c5a1c4328293d991f496cf40cfba9b214c00aa5d3f4040262              920 core-userspace/binary-amd64/Packages.xz

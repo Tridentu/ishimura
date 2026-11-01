@@ -32,3 +32,16 @@ Description: HTTP/2 C library - shared library
  .
  Essential for systemwide network tools and web handling daemons.
 
+Package: nasm
+Version: 3.02
+Architecture: amd64
+Maintainer: Tridentu Group <tridentugroup@gmail.com>
+Filename: pool/core-userspace/nasm_3.02_amd64.deb
+Size: 1229680
+MD5sum: 5f4944ccd0ec0a44c9d6de53135b1cb4
+SHA1: bb143fe81c2f008ff400f3902f6429747c375f9a
+SHA256: a673edcb84d6d8343e10df917139663dbecce55bd0eb805edc8c169eaecddc61
+Section: devel
+Priority: standard
+Description: The Netwide Assembler for x86-64.
+
