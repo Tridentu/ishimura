@@ -28,6 +28,19 @@ Description: Flatpak package manager.
     This package is marked as essential due to the lack of optional GUI programs in the Ishimura
     repository.
 
+Package: katdown
+Version: 0.2.0
+Architecture: amd64
+Maintainer: Tridentu Group <tridentugroup@gmail.com>
+Filename: pool/core-userspace-backup-gui/katdown_0.2.0__amd64.deb
+Size: 149240
+MD5sum: 50185f3817beb7d82d9cfc2d95cdaf3a
+SHA1: c2c31cf6c0aa64f1fa538334eee07ef7a54de0e9
+SHA256: 20ddf50e9d51e5ab6815760f21a086aaf5ebf536db097d44d50631855744607d
+Section: gui-standard
+Priority: standard
+Description: Markdown extension for KDE Kate.
+
 Package: little-cms
 Version: 2.19.1
 Architecture: amd64
