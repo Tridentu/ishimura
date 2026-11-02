@@ -28,6 +28,19 @@ Description: Flatpak package manager.
     This package is marked as essential due to the lack of optional GUI programs in the Ishimura
     repository.
 
+Package: little-cms
+Version: 2.19.1
+Architecture: amd64
+Maintainer: Tridentu Group <tridentugroup@gmail.com>
+Filename: pool/core-userspace-backup-gui/little-cms_2.19.1_amd64.deb
+Size: 222440
+MD5sum: c1f6414de2a4cbb69e9647ab33b0af60
+SHA1: 77ad0c6c897d7800d148d7c037c40c765fe7c881
+SHA256: fb485287a850a86e91d88b2db8446c370fb357cbc7ad689b5b57e99b9a60f30d
+Section: devel
+Priority: standard
+Description: Little CMS color management system.
+
 Package: vicinae
 Version: 0.29.0
 Architecture: amd64
