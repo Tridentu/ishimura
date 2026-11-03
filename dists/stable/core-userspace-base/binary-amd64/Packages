@@ -1,13 +1,13 @@
 Package: caravel
-Version: 0.4.5
+Version: 0.5
 Architecture: amd64
 Essential: yes
 Maintainer: Tridentu Group <tridentugroup@gmail.com>
-Filename: pool/core-userspace-base/caravel_0.4.5_amd64.deb
-Size: 740
-MD5sum: dcaf1008032f5827c6eed1b7fe91e038
-SHA1: 214b3f985f46833e607e120c2e1284fee1abc8ab
-SHA256: d48dcfebf0c06a07900b2f85cea78993ee614d51ea63cf98a46ebdd9df878591
+Filename: pool/core-userspace-base/caravel_0.5_amd64.deb
+Size: 228908
+MD5sum: df8dbbad25a84335c2cd506e4567f8f7
+SHA1: 6f19b6bf81bfd2b1c5bd4b9e8e9aea924b798b2b
+SHA256: da7a1943dc6112cc809e18a365dc411f584cae4e7a499c7fe1a0307811768bdd
 Section: standard
 Priority: standard
 Description: The main package manager/meta package manager for Tridentu 2 Linux.
