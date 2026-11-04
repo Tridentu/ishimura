@@ -1,12 +1,12 @@
 Architectures: amd64 any
 Codename: stable
 Components: core-kernel core-kernel-drivers core-userspace core-userspace-env core-userspace-backup-gui core-userspace-plasma-gui core-userspace-base alt-kernel
-Date: Wed, 04 Nov 2026 17:08:09 +0000
+Date: Wed, 04 Nov 2026 17:09:06 +0000
 Label: Ishimura Service Pack Repository for Tridentu 2
 Origin: Ishimura
 Suite: stable
 MD5Sum:
- bf7d02e2ec852dc21c8ae3378da4b32f              327 Release
+ 07a3a077ed45cd66486217e24e70bbf9              327 Release
  d4cb06cbae510892987b74b391cb26a2            33121 alt-kernel/Contents-amd64
  be0e2d23c606a4ae6513e5b48a5c42ac             3604 alt-kernel/Contents-amd64.gz
  95e7e49f2e823da12380649e314853c1              600 alt-kernel/binary-amd64/Packages
@@ -38,7 +38,7 @@ MD5Sum:
  1ba80e9c4abc7890d663b8a44151e400             1570 core-userspace/binary-amd64/Packages
  9e49d6ad2168902eaca3e1585172ebaa              920 core-userspace/binary-amd64/Packages.xz
 SHA1:
- a521946033ebab59d612ab201100fd883859648c              327 Release
+ 2355d70ae0f205769fa22acd0a07b7c3932d2562              327 Release
  b51683a8931976c548b41c193cb6070c60d865ac            33121 alt-kernel/Contents-amd64
  2aaf89b314554e5b93e6de8d9e834c22db999431             3604 alt-kernel/Contents-amd64.gz
  cdf772def6eda945ca3a93c6fc640f32d46bbf1c              600 alt-kernel/binary-amd64/Packages
@@ -70,7 +70,7 @@ SHA1:
  8d7e8ffda83f07a85208f016e407ae3601b7a572             1570 core-userspace/binary-amd64/Packages
  47538c945983510a16493ac39f3def4fb54c75da              920 core-userspace/binary-amd64/Packages.xz
 SHA256:
- 0ee3d96b2849485661a4ced3a005f364b2e48091198b3f1a59daec334033e37f              327 Release
+ fceedb723cb6774704122bf4646af86f2ebc0d41068b1462b24f09a138e1f8b8              327 Release
  fe57ac174f7769c6da69f462259868e4ca7e44a7f047dae409d7189a7307cc09            33121 alt-kernel/Contents-amd64
  29e3c9325d2e627524a5ec1b2d5a48813a481386957fc0d59dfab6b6a86319ba             3604 alt-kernel/Contents-amd64.gz
  4b37c42df08ff52e54c2310541619e7acb5fabbc94f727bfd59b9b5049d701a3              600 alt-kernel/binary-amd64/Packages
@@ -102,7 +102,7 @@ SHA256:
  e08e4d7e1b597c46cbbed39290a713f908e951b1a67c2f4f12c0f51c9fcbe7e0             1570 core-userspace/binary-amd64/Packages
  40f5db0eb3f2334579e81a47475f099c41ff13350492f0bf13ea4bdd59a78678              920 core-userspace/binary-amd64/Packages.xz
 SHA512:
- 81aae7336a52ceb3b9c20cc6b4e9d274c867a200690127dc495e636873321c79708f244bd8f394d5cee1c2369a2acf814c26be59443457f08b1169dc668cbb63              327 Release
+ dbb1770d6251637ffdf5439d14141ac48f3e872785efb9127f9301c2f89b0728e0a6b570a4e4b3e5d53836c906dce0802053f09a7368aadb8c3d2bf87f2abdd6              327 Release
  9285725bf45d6611114c9c191cd0f949bc62cc4388c74a2daa79cd830c23c5ee0d8d7e34be9904b5c4333f9cfac04aaa3cd8a7aec88a66bf723feca81f080572            33121 alt-kernel/Contents-amd64
  d18ba4b67e64377f8c18f041a21dff8795252c8a5a7d0be07dfa27f6a8255b43e9ca64df56a7e0bc156942a97d0eb17963298fedb1e47118950997b51a73ec62             3604 alt-kernel/Contents-amd64.gz
  8235ef73b6201f260e652c2adf0d0f340b86dfd403bd925f54b0863a60b9e0563595b8bbc90f5c8f28b7f288fd0794bb347ed30bd39fc6e330854861d4de9680              600 alt-kernel/binary-amd64/Packages
