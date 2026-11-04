@@ -1,16 +1,16 @@
 Architectures: amd64 any
 Codename: stable
 Components: core-kernel core-kernel-drivers core-userspace core-userspace-env core-userspace-backup-gui core-userspace-plasma-gui core-userspace-base alt-kernel
-Date: Wed, 04 Nov 2026 17:03:33 +0000
+Date: Wed, 04 Nov 2026 17:04:32 +0000
 Label: Ishimura Service Pack Repository for Tridentu 2
 Origin: Ishimura
 Suite: stable
 MD5Sum:
- 10d3311f114504ac48a7043467edcd47              327 Release
+ f69482c11eedd6dbf5d0ec273c809259              327 Release
  d4cb06cbae510892987b74b391cb26a2            33121 alt-kernel/Contents-amd64
  be0e2d23c606a4ae6513e5b48a5c42ac             3604 alt-kernel/Contents-amd64.gz
- 7da010e364b3a07caefc0f5aebb6a33e             2054 alt-kernel/binary-amd64/Packages
- a8a524750a04c4dcc94ff4a4b035f152             1220 alt-kernel/binary-amd64/Packages.xz
+ 95e7e49f2e823da12380649e314853c1              600 alt-kernel/binary-amd64/Packages
+ 3c68111eccf9799fe0d06fda2b703b57              508 alt-kernel/binary-amd64/Packages.xz
  d30eb31a1fc779dbef099db5c74688bb              606 core-kernel-drivers/binary-amd64/Packages
  e65975aaf83553506a90160ba2b7206e              512 core-kernel-drivers/binary-amd64/Packages.xz
  d4cb06cbae510892987b74b391cb26a2            33121 core-kernel/Contents-amd64
@@ -38,11 +38,11 @@ MD5Sum:
  1ba80e9c4abc7890d663b8a44151e400             1570 core-userspace/binary-amd64/Packages
  9e49d6ad2168902eaca3e1585172ebaa              920 core-userspace/binary-amd64/Packages.xz
 SHA1:
- 4258a0a36fa72be7c7f9e273710bf1f65c96866e              327 Release
+ 8975954a87625dde2c24fb7193ef605cd713090c              327 Release
  b51683a8931976c548b41c193cb6070c60d865ac            33121 alt-kernel/Contents-amd64
  2aaf89b314554e5b93e6de8d9e834c22db999431             3604 alt-kernel/Contents-amd64.gz
- ce74026cb552e3a0cc87141388ea94661a7d41a1             2054 alt-kernel/binary-amd64/Packages
- b880baefd711e82791eaf1202b8c64784d383c74             1220 alt-kernel/binary-amd64/Packages.xz
+ cdf772def6eda945ca3a93c6fc640f32d46bbf1c              600 alt-kernel/binary-amd64/Packages
+ 363005e03a5c537e5c26098defa0f4bd4a78d467              508 alt-kernel/binary-amd64/Packages.xz
  f27c8a4897564793cc961d90405667b485ef1656              606 core-kernel-drivers/binary-amd64/Packages
  869ec6409d87cf08e38f7939a6bb34f3f9e94ee3              512 core-kernel-drivers/binary-amd64/Packages.xz
  b51683a8931976c548b41c193cb6070c60d865ac            33121 core-kernel/Contents-amd64
@@ -70,11 +70,11 @@ SHA1:
  8d7e8ffda83f07a85208f016e407ae3601b7a572             1570 core-userspace/binary-amd64/Packages
  47538c945983510a16493ac39f3def4fb54c75da              920 core-userspace/binary-amd64/Packages.xz
 SHA256:
- 390e9a4e32a59823c47c6bc07f349793364b550e152152500df392c54f81a5b8              327 Release
+ ff26eda91914238d240716b84898d156d44501c6ddd9bc74d03830e078764725              327 Release
  fe57ac174f7769c6da69f462259868e4ca7e44a7f047dae409d7189a7307cc09            33121 alt-kernel/Contents-amd64
  29e3c9325d2e627524a5ec1b2d5a48813a481386957fc0d59dfab6b6a86319ba             3604 alt-kernel/Contents-amd64.gz
- fbd5fad11b2f9c3a13dd5a789020e788b1ac6e002d969c08ba87814247c21ab8             2054 alt-kernel/binary-amd64/Packages
- c55897b936e208f30591e617f134af12edf9c05fa6a87fa9fb652242ebe01181             1220 alt-kernel/binary-amd64/Packages.xz
+ 4b37c42df08ff52e54c2310541619e7acb5fabbc94f727bfd59b9b5049d701a3              600 alt-kernel/binary-amd64/Packages
+ cdefb58b0c9407d60c5ff8c8ccd517cf2a29cd121db4b06fe34700ce9dc21c25              508 alt-kernel/binary-amd64/Packages.xz
  ffa67981700dccdb9e2e9570052817b565da925ad392511de18114803b83761b              606 core-kernel-drivers/binary-amd64/Packages
  ba3c539d62e7c1d5f5e6e6dc1b2b6ca94ed1d3eb967445b260456ad823ac7679              512 core-kernel-drivers/binary-amd64/Packages.xz
  fe57ac174f7769c6da69f462259868e4ca7e44a7f047dae409d7189a7307cc09            33121 core-kernel/Contents-amd64
@@ -102,11 +102,11 @@ SHA256:
  e08e4d7e1b597c46cbbed39290a713f908e951b1a67c2f4f12c0f51c9fcbe7e0             1570 core-userspace/binary-amd64/Packages
  40f5db0eb3f2334579e81a47475f099c41ff13350492f0bf13ea4bdd59a78678              920 core-userspace/binary-amd64/Packages.xz
 SHA512:
- 0dd49a219b32fd59ad767995d25c3560f51e27f4ea24e95a6d13ce78e46e1bba49398e7c825313d4f6c55f9fd8d55d76ff543e5e0996f2d5a357350db5b02cb8              327 Release
+ 515d9ac8ee3766a50d7f0347ba19569dfe3a3a4f204c12186c5cf02050b4ee00aff16fe3252c68a0bc559afd2d0fa074341e92bc87cd618ce1b09ba3068df9b5              327 Release
  9285725bf45d6611114c9c191cd0f949bc62cc4388c74a2daa79cd830c23c5ee0d8d7e34be9904b5c4333f9cfac04aaa3cd8a7aec88a66bf723feca81f080572            33121 alt-kernel/Contents-amd64
  d18ba4b67e64377f8c18f041a21dff8795252c8a5a7d0be07dfa27f6a8255b43e9ca64df56a7e0bc156942a97d0eb17963298fedb1e47118950997b51a73ec62             3604 alt-kernel/Contents-amd64.gz
- 12d24a7530e68e7309d1b45dab9130a197bbf3734dabb4c33041328efebaaf4359126b78986bb5cc3d8eae68e0224165711e8c8210f2e3250b0a106c8a36e8c7             2054 alt-kernel/binary-amd64/Packages
- 6cf2c6c2d19d53b9327b3bb50ef290f256bac997784840e61452b8aff8501b2fe713844f602b17ac7737f28b0f52d9d79cc891c861886a98ee602d785907253e             1220 alt-kernel/binary-amd64/Packages.xz
+ 8235ef73b6201f260e652c2adf0d0f340b86dfd403bd925f54b0863a60b9e0563595b8bbc90f5c8f28b7f288fd0794bb347ed30bd39fc6e330854861d4de9680              600 alt-kernel/binary-amd64/Packages
+ 6ab3ee8cdbbc582066999c34e5ca7e936b9078a81105e0ff188db9645ea84f9a9d75d221ba2ed95948f5fe613c49538755027c6cf24c0f0db973ca3608df9de7              508 alt-kernel/binary-amd64/Packages.xz
  786b85d4c6ccecc2bea403ca3c216d19085afc06b9f8ddff428d61d96e1a4f3cf9fb701db8d92f39207e4e9c6ba9ca39109427ff61c006f9a2ccb734a5039240              606 core-kernel-drivers/binary-amd64/Packages
  d59daede0d486730011993669b35b1dff37f1dd56b989d563058ec87236a4f57f715be33323568a1c0cc8686f26345a82646c067bb331f72bd0960a6117d4855              512 core-kernel-drivers/binary-amd64/Packages.xz
  9285725bf45d6611114c9c191cd0f949bc62cc4388c74a2daa79cd830c23c5ee0d8d7e34be9904b5c4333f9cfac04aaa3cd8a7aec88a66bf723feca81f080572            33121 core-kernel/Contents-amd64
