@@ -1,12 +1,12 @@
 Architectures: amd64 any
 Codename: stable
 Components: core-kernel core-kernel-drivers core-userspace core-userspace-env core-userspace-backup-gui core-userspace-plasma-gui core-userspace-base alt-kernel
-Date: Wed, 04 Nov 2026 17:06:37 +0000
+Date: Wed, 04 Nov 2026 17:08:09 +0000
 Label: Ishimura Service Pack Repository for Tridentu 2
 Origin: Ishimura
 Suite: stable
 MD5Sum:
- c1fc2b57afde809b8d50cab81b8c42c7              327 Release
+ bf7d02e2ec852dc21c8ae3378da4b32f              327 Release
  d4cb06cbae510892987b74b391cb26a2            33121 alt-kernel/Contents-amd64
  be0e2d23c606a4ae6513e5b48a5c42ac             3604 alt-kernel/Contents-amd64.gz
  95e7e49f2e823da12380649e314853c1              600 alt-kernel/binary-amd64/Packages
@@ -27,8 +27,8 @@ MD5Sum:
  de81d1557a17ffdf804991c05b212ef2              428 core-userspace-base/binary-amd64/Packages.xz
  d4cb06cbae510892987b74b391cb26a2            33121 core-userspace-env/Contents-amd64
  be0e2d23c606a4ae6513e5b48a5c42ac             3604 core-userspace-env/Contents-amd64.gz
- 7da010e364b3a07caefc0f5aebb6a33e             2054 core-userspace-env/binary-amd64/Packages
- a8a524750a04c4dcc94ff4a4b035f152             1220 core-userspace-env/binary-amd64/Packages.xz
+ 7b0aa712488df9002ffdd2ede2157c8c              541 core-userspace-env/binary-amd64/Packages
+ c986a30b92aa51383801d1977307a16f              492 core-userspace-env/binary-amd64/Packages.xz
  d4cb06cbae510892987b74b391cb26a2            33121 core-userspace-plasma-gui/Contents-amd64
  be0e2d23c606a4ae6513e5b48a5c42ac             3604 core-userspace-plasma-gui/Contents-amd64.gz
  a79d2a3d9885ac3de76a3a29063ad1c2              442 core-userspace-plasma-gui/binary-amd64/Packages
@@ -38,7 +38,7 @@ MD5Sum:
  1ba80e9c4abc7890d663b8a44151e400             1570 core-userspace/binary-amd64/Packages
  9e49d6ad2168902eaca3e1585172ebaa              920 core-userspace/binary-amd64/Packages.xz
 SHA1:
- 512a479732adc96399409dea6bb8e6212cf4ccc7              327 Release
+ a521946033ebab59d612ab201100fd883859648c              327 Release
  b51683a8931976c548b41c193cb6070c60d865ac            33121 alt-kernel/Contents-amd64
  2aaf89b314554e5b93e6de8d9e834c22db999431             3604 alt-kernel/Contents-amd64.gz
  cdf772def6eda945ca3a93c6fc640f32d46bbf1c              600 alt-kernel/binary-amd64/Packages
@@ -59,8 +59,8 @@ SHA1:
  1e56b1ec3202a51f677903783627b81143fb737d              428 core-userspace-base/binary-amd64/Packages.xz
  b51683a8931976c548b41c193cb6070c60d865ac            33121 core-userspace-env/Contents-amd64
  2aaf89b314554e5b93e6de8d9e834c22db999431             3604 core-userspace-env/Contents-amd64.gz
- ce74026cb552e3a0cc87141388ea94661a7d41a1             2054 core-userspace-env/binary-amd64/Packages
- b880baefd711e82791eaf1202b8c64784d383c74             1220 core-userspace-env/binary-amd64/Packages.xz
+ 683ac45864be65af1224413adc4c582960c6011b              541 core-userspace-env/binary-amd64/Packages
+ 958b53e5da28e688da94201e9dc54ad06ec4b25b              492 core-userspace-env/binary-amd64/Packages.xz
  b51683a8931976c548b41c193cb6070c60d865ac            33121 core-userspace-plasma-gui/Contents-amd64
  2aaf89b314554e5b93e6de8d9e834c22db999431             3604 core-userspace-plasma-gui/Contents-amd64.gz
  21b7d245bbb324c5d5ee80274a9a401b144c3ccf              442 core-userspace-plasma-gui/binary-amd64/Packages
@@ -70,7 +70,7 @@ SHA1:
  8d7e8ffda83f07a85208f016e407ae3601b7a572             1570 core-userspace/binary-amd64/Packages
  47538c945983510a16493ac39f3def4fb54c75da              920 core-userspace/binary-amd64/Packages.xz
 SHA256:
- f6bd9432db997b89a168fc5bdb960caa95aa1e6001772a41ee7cad029e82969c              327 Release
+ 0ee3d96b2849485661a4ced3a005f364b2e48091198b3f1a59daec334033e37f              327 Release
  fe57ac174f7769c6da69f462259868e4ca7e44a7f047dae409d7189a7307cc09            33121 alt-kernel/Contents-amd64
  29e3c9325d2e627524a5ec1b2d5a48813a481386957fc0d59dfab6b6a86319ba             3604 alt-kernel/Contents-amd64.gz
  4b37c42df08ff52e54c2310541619e7acb5fabbc94f727bfd59b9b5049d701a3              600 alt-kernel/binary-amd64/Packages
@@ -91,8 +91,8 @@ SHA256:
  b378a2d033e1064744912a784ad3aeae8bbca5d852bb76a339f8058e751d71b1              428 core-userspace-base/binary-amd64/Packages.xz
  fe57ac174f7769c6da69f462259868e4ca7e44a7f047dae409d7189a7307cc09            33121 core-userspace-env/Contents-amd64
  29e3c9325d2e627524a5ec1b2d5a48813a481386957fc0d59dfab6b6a86319ba             3604 core-userspace-env/Contents-amd64.gz
- fbd5fad11b2f9c3a13dd5a789020e788b1ac6e002d969c08ba87814247c21ab8             2054 core-userspace-env/binary-amd64/Packages
- c55897b936e208f30591e617f134af12edf9c05fa6a87fa9fb652242ebe01181             1220 core-userspace-env/binary-amd64/Packages.xz
+ a038ffebc5aba606311050a4388a9d2bb964347ce85a403f911104338afa7d94              541 core-userspace-env/binary-amd64/Packages
+ 32398b089668df8a1ac72c64ab174f56b0d27a2ff7fa2ff1b19b5d2589a48cdf              492 core-userspace-env/binary-amd64/Packages.xz
  fe57ac174f7769c6da69f462259868e4ca7e44a7f047dae409d7189a7307cc09            33121 core-userspace-plasma-gui/Contents-amd64
  29e3c9325d2e627524a5ec1b2d5a48813a481386957fc0d59dfab6b6a86319ba             3604 core-userspace-plasma-gui/Contents-amd64.gz
  385957a99ef581575273f815ad4e4afa115de46fcf8e641e9f0e71fe9d964e31              442 core-userspace-plasma-gui/binary-amd64/Packages
@@ -102,7 +102,7 @@ SHA256:
  e08e4d7e1b597c46cbbed39290a713f908e951b1a67c2f4f12c0f51c9fcbe7e0             1570 core-userspace/binary-amd64/Packages
  40f5db0eb3f2334579e81a47475f099c41ff13350492f0bf13ea4bdd59a78678              920 core-userspace/binary-amd64/Packages.xz
 SHA512:
- 041655bbfac3b541267295c099b48764b54a5d7813e10faff262ce8c6c7ad380f2c79abf1550e880c5c378679fdc05be7f63e4a10f3ed095e307df9997ec2caa              327 Release
+ 81aae7336a52ceb3b9c20cc6b4e9d274c867a200690127dc495e636873321c79708f244bd8f394d5cee1c2369a2acf814c26be59443457f08b1169dc668cbb63              327 Release
  9285725bf45d6611114c9c191cd0f949bc62cc4388c74a2daa79cd830c23c5ee0d8d7e34be9904b5c4333f9cfac04aaa3cd8a7aec88a66bf723feca81f080572            33121 alt-kernel/Contents-amd64
  d18ba4b67e64377f8c18f041a21dff8795252c8a5a7d0be07dfa27f6a8255b43e9ca64df56a7e0bc156942a97d0eb17963298fedb1e47118950997b51a73ec62             3604 alt-kernel/Contents-amd64.gz
  8235ef73b6201f260e652c2adf0d0f340b86dfd403bd925f54b0863a60b9e0563595b8bbc90f5c8f28b7f288fd0794bb347ed30bd39fc6e330854861d4de9680              600 alt-kernel/binary-amd64/Packages
@@ -123,8 +123,8 @@ SHA512:
  7ab851c27db8239031d079a3e615898aed7c8f6788638858511e963f7408ae2ae6be06bebacbecd72c3053516f8b232c07b1b5a93c07b21ede7809dccc172052              428 core-userspace-base/binary-amd64/Packages.xz
  9285725bf45d6611114c9c191cd0f949bc62cc4388c74a2daa79cd830c23c5ee0d8d7e34be9904b5c4333f9cfac04aaa3cd8a7aec88a66bf723feca81f080572            33121 core-userspace-env/Contents-amd64
  d18ba4b67e64377f8c18f041a21dff8795252c8a5a7d0be07dfa27f6a8255b43e9ca64df56a7e0bc156942a97d0eb17963298fedb1e47118950997b51a73ec62             3604 core-userspace-env/Contents-amd64.gz
- 12d24a7530e68e7309d1b45dab9130a197bbf3734dabb4c33041328efebaaf4359126b78986bb5cc3d8eae68e0224165711e8c8210f2e3250b0a106c8a36e8c7             2054 core-userspace-env/binary-amd64/Packages
- 6cf2c6c2d19d53b9327b3bb50ef290f256bac997784840e61452b8aff8501b2fe713844f602b17ac7737f28b0f52d9d79cc891c861886a98ee602d785907253e             1220 core-userspace-env/binary-amd64/Packages.xz
+ 477c02fa4559bf92b06a13110cbf3678bc879acf610725ed00a894c9974ed9558d8195f665ddc72d49fa0bc4389b9bccf2e4fd953279cf5b0b9dd9d0c79d589a              541 core-userspace-env/binary-amd64/Packages
+ 39bc921a533e0c5047b444e353a43706eefaf2cbb917c7cb313409bc66b73ebb95df2788c4a824d9eea944501b406382923168f5264163f9da482eac67d198b8              492 core-userspace-env/binary-amd64/Packages.xz
  9285725bf45d6611114c9c191cd0f949bc62cc4388c74a2daa79cd830c23c5ee0d8d7e34be9904b5c4333f9cfac04aaa3cd8a7aec88a66bf723feca81f080572            33121 core-userspace-plasma-gui/Contents-amd64
  d18ba4b67e64377f8c18f041a21dff8795252c8a5a7d0be07dfa27f6a8255b43e9ca64df56a7e0bc156942a97d0eb17963298fedb1e47118950997b51a73ec62             3604 core-userspace-plasma-gui/Contents-amd64.gz
  8cbba85c97ad1896f59fb112ab5ccaeee2a0fc8e8ea143af8627611d337133822f62429885c5dbdad7e04242cc1975934e5ca5746c4f8912c5ebb9a27fb1e6d6              442 core-userspace-plasma-gui/binary-amd64/Packages
