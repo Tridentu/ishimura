@@ -17,10 +17,10 @@ Version: 0.12.6
 Architecture: amd64
 Maintainer: Tridentu Group <tridentugroup@gmail.com>
 Filename: pool/core-userspace-base/nvim_0.12.6_amd64.deb
-Size: 15851280
-MD5sum: 7aea1359bb438358afad1a3e1cec3c85
-SHA1: ad39a1ec452a9c7097198a892e4fa9e42a6cda59
-SHA256: 7174a83d7683b04e8bf6a3b7ef5dad74c61fe78680fd5899ece684dd293240c0
+Size: 15851188
+MD5sum: 318b39c43b6448649500e409cc6cdfa3
+SHA1: 5438cbcb5cb7380130d8a57df5eb7fde1b995820
+SHA256: 2aa831421b38294cd4878284b95557d2969a914b2182524006541a27164cf4c6
 Section: standard
 Priority: required
 Description: Neovim text editor.
