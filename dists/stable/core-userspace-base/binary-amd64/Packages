@@ -12,3 +12,16 @@ Section: standard
 Priority: standard
 Description: The main package manager/meta package manager for Tridentu 2 Linux.
 
+Package: nvim
+Version: 0.12.6
+Architecture: amd64
+Maintainer: Tridentu Group <tridentugroup@gmail.com>
+Filename: pool/core-userspace-base/nvim_0.12.6_amd64.deb
+Size: 15851280
+MD5sum: 7aea1359bb438358afad1a3e1cec3c85
+SHA1: ad39a1ec452a9c7097198a892e4fa9e42a6cda59
+SHA256: 7174a83d7683b04e8bf6a3b7ef5dad74c61fe78680fd5899ece684dd293240c0
+Section: standard
+Priority: required
+Description: Neovim text editor.
+
