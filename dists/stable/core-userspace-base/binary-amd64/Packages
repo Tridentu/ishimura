@@ -12,6 +12,21 @@ Section: standard
 Priority: standard
 Description: The main package manager/meta package manager for Tridentu 2 Linux.
 
+Package: golang
+Version: 1.27.4
+Architecture: amd64
+Essential: yes
+Maintainer: Tridentu Group <tridentugroup@gmail.com>
+Installed-Size: 289048
+Filename: pool/core-userspace-base/golang_1.27.4_amd64.deb
+Size: 48374180
+MD5sum: ae030be55ac0a1201e07570c71c39360
+SHA1: 178a1c31ed68ab55bd8dd2beb78f856f8121d69a
+SHA256: 307e691e5280c999ff125596ddc9952761f56a172165a253a1fe88e30a84d5b0
+Section: devel
+Priority: standard
+Description: Go programming language compiler and standard library
+
 Package: nvim
 Version: 0.12.6
 Architecture: amd64
