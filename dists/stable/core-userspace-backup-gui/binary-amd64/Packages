@@ -41,6 +41,20 @@ Section: gui-standard
 Priority: standard
 Description: Markdown extension for KDE Kate.
 
+Package: kitty-terminal
+Version: 0.50.0
+Architecture: amd64
+Maintainer: Tridentu Group <tridentugroup@gmail.com>
+Installed-Size: 84672
+Filename: pool/core-userspace-backup-gui/kitty_0.50.0_amd64.deb
+Size: 19685916
+MD5sum: 630764e62f20116f11465a9daf9dc5f9
+SHA1: 892f14003c4df3dc5fb98637185999b9ff65dd4f
+SHA256: 29cbe5c6b25769e83b582c4af8d437e70a91b06576cb261b0003b50c06aa5185
+Section: gui-standard
+Priority: standard
+Description: Cross-platform, fast, feature-rich, GPU based terminal.
+
 Package: little-cms
 Version: 2.19.1
 Architecture: amd64
