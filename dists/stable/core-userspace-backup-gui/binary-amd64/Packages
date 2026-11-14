@@ -54,6 +54,20 @@ Section: devel
 Priority: standard
 Description: Little CMS color management system.
 
+Package: slangc
+Version: 2026.22
+Architecture: amd64
+Maintainer: Tridentu Group <tridentugroup@gmail.com>
+Installed-Size: 318606903
+Filename: pool/core-userspace-backup-gui/slangc_2026.22_amd64.deb
+Size: 79272336
+MD5sum: 34b97935062fad34baa99e9aa8875878
+SHA1: e3756deaa47b23a62f4d486bf1c8ad4f1d426438
+SHA256: 31325e744c1332cf4f8fbbd9ff819e4441d0fa131f7253c3b175afd2b8cac860
+Section: devel
+Priority: standard
+Description: A shading language that makes it easier to build and maintain large shader codebases in a modular and extensible fashion, while also maintaining the highest possible performance on modern GPUs and graphics APIs.
+
 Package: vicinae
 Version: 0.29.0
 Architecture: amd64
