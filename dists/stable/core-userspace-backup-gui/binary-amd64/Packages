@@ -68,6 +68,20 @@ Section: devel
 Priority: standard
 Description: Little CMS color management system.
 
+Package: noctalia
+Version: 5.5.0
+Architecture: amd64
+Maintainer: Tridentu Group <tridentugroup@gmail.com>
+Filename: pool/core-userspace-backup-gui/noctalia_5.5.0_amd64.deb
+Size: 16606944
+MD5sum: 0a3cb1278515eabd5d282000c267a5ea
+SHA1: d4b86eeddc68c7d96516ea8146d4bf3a339bf518
+SHA256: d014bda80613908ce71d40c58402026cfe53eb661f3619734b2263d8121e0282
+Section: x11
+Priority: standard
+Description: Sleek, customizable native Wayland desktop shell
+ Built directly on Wayland and OpenGL ES without Qt or GTK dependencies.
+
 Package: slangc
 Version: 2026.22
 Architecture: amd64
